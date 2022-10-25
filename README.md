@@ -1,6 +1,6 @@
 # Projeto-Awax
 
-O projeto realizado é uma reprodução do design Awax, projeto feito com orientação do Professor Bonieky Lacerda, projeto iniciante apenas com HTML/CSS, a reprodução do site está 100% responsivo e com o esqueleto pronto para inserir JS para questões de ações de click.<br/>
+O projeto realizado é uma reprodução do design Awax, projeto feito com orientação do Professor Bonieky Lacerda do curso B7Web FullStack, projeto iniciante apenas com HTML/CSS, a reprodução do site está 100% responsivo e com o esqueleto pronto para inserir JS para as ações de click.<br/>
 <br/>
 Estou aberto para dicas e sugestões, o projeto é apenas uma REPRODUÇÃO de um layout e não um projeto pessoal criado.
 <br/>
